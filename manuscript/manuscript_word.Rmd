@@ -1,0 +1,37 @@
+---
+title: "Beyond the binary: Inferential challenges and solutions in cognitive archaeology"
+author: 
+- Cheng Liu^[Department of Anthropology, Emory University, Atlanta, GA, USA; cheng.liu@emory.edu]
+- Dietrich Stout^[Department of Anthropology, Emory University, Atlanta, GA, USA; dwstout@emory.edu]
+abstract: "Abstract: ."
+date: "`r Sys.Date()`"
+output:
+  word_document
+linestretch: 1.5
+link-citations: yes
+linkcolor: blue
+bibliography: bibliography.bib
+csl: apa.csl
+fontsize: 11pt
+always_allow_html: true
+---
+
+```{=tex}
+\leftskip1cm\relax
+\rightskip1cm\relax
+```
+|  "*'Modern' is thus doubly asymmetrical: it designates a break in the regular passage of time, and it designates a combat in which there are victors and vanquished. If so many of our contemporaries are reluctant to use this adjective today, if we qualify it with prepositions, it is because we feel less confident in our ability to maintain that double asymmetry: we can no longer point to time's irreversible arrow, nor can we award a prize to the winners*" [@latour1993: 10]
+
+```{=tex}
+\leftskip0cm\relax
+\rightskip0cm\relax
+```
+We applaud Stibbard-Hawkes's critical evaluation of inferring cognition from material culture evidence based on his cutting-edge quantitative analysis of cross-cultural data from three African foraging communities. Nonetheless, we also noticed the existence of some straw man arguments in his critiques of contemporary cognitive archaeology. For example, when discussing the current debates revolving around "behavioral modernity", he amplified the voices of the uni-linear and teleological view of cognitive evolution while downplaying the influence of mosaic evolution as pivoted by McBrearty and Brook [-@mcbrearty2000] and many others in the past two decades, presenting the former view as the consensus among paleolithic archaeologists. We would also like to point out that the awareness of the differential preservation of material remains within the archaeological community is as old as the cautionary tale of using ethnographic analogies in archaeological inferences, if not much older. More importantly, in Section 4 of Stibbard-Hawkes’s manuscript, he proposed and criticized three tacit assumptions commonly held by prehistorians, including 1) “cognitive modern humans” would always leave sophisticated and endurable artifacts; 2) the absence of evidence are automatically equated to the evidence of absence in the inference of cognitive abilities; 3) human ancestors predating Homo sapiens are primitive by default. In this commentary, we closely examined the three inferential challenges attributed to cognitive archaeology and provided some constructive suggestions.
+
+First, we argue that one should generally refrain from the use of the binary scheme such as simple/complex or modern/pre-modern cognition. These concepts are not analytically informative regarding the actual evolution of cognition while carrying heavy historical burdens and political implications within the public domain as sharply pointed out by the author. Instead, a more productive approach would be studying the detailed cognitive processes behind the production, reproduction, perception, and variation of specific material cultural evidence (e.g. geometric engravings, cave painting, pigment, compound tools, etc.) through innovative experimental designs and in-depth ethnographic studies. It is possible to investigate the shared and differential cognitive demands (working memory, tendency to use social information, planning depth, etc.) as well as neuroanatomical substrates of material culture expressions through psychometric and neuroimaging studies. The past few years have witnessed the burgeoning of this line of inquiry, particularly at the perception level Taking the geometric engraving as an example, Tylén et al [-@tylén2020] designed a series of cognitive experiments using Blombos and Diepkloof engravings as stimuli, of which the results suggest that these engravings evolved over 30,000 years to become better suited to human perception and cognitive processes, namely more salient, memorable, and easier to reproduce. Despite these adaptive changes, their study found no evidence that the engravings served as symbolic signs denoting specific meanings as traditionally argued by archaeologists. Instead, a more parsimonious explanation is that they appeared to function as decorations and expressions of socially transmitted cultural traditions. Parallelly, a fMRI study conducted by Mellet et al. [-@mellet] also using the Blombos engravings as stimuli has found similar low-level visual and perceptual processes, while their interpretation of the neuroimaging data is more generous and supports the idea of the representational nature of these early engravings. On the other hand, ethnographic studies help us depict the potential social contexts where important cognitive processes are situated. In Section 10 of Stibbard-Hawkes's work, he has briefly demonstrated how the cosmology and ontology of contemporary foraging communities can also be critical of understanding the absence/presence and variation of certain material cultural categories as well as their implications to the study of cognition.
+
+Second, we completely agree with the author that the absence of certain material cultural categories does not imply that the corresponding community lacks the cognitive capacities to produce it. This is particularly true considering the fact that the reproduction of many so-called "modern" cultural innovations feature relatively low perceptual-motor demand once exposed to relevant models in a given community. However, echoing Wallach’s [-@wallach2019] recent epistemic evaluation, we suggest that *argumentum ad ignorantiam* is not necessarily an invalid inference approach in archaeological research. Even though the knowledge generated from this mechanism can be fragile and defeasible by future evidence or analysis, adopting rather than abandoning this principle in many cases represents a less harmful epistemic choice. On this front, despite being constantly used as a negative example in this study, the large-scale analysis of symbolic artifacts performed by Kelly et al. [-@kelly2023] is a well-excuted study demonstrating the utility of *argumentum ad ignorantiam* when the taphonomic bias of organic remains are taken into account. Moreover, this epistemic principle pushes one to reflect on the issue of automatically using the scarce evidence to generalize about the inter-species difference while it might essentially reflect the inter-group or even intra-group variation within a species.
+
+Third, following Stout and Hecht [-@stout2023], we argue that it is also true that the presence of a particular behavior does not provide decisive evidence for a particular cognitive capacity thought to support it. Brains and behaviors are impressively flexible, and the possibility always remains that untested, alternative neurocognitive strategies exist. For these three reasons, we propose that cognitive archaeology should focus on identifying causal pathways leading to and evolutionary consequences arising from the expression of various behaviors across time and space, rather than attempting to date the “appearance” of particular capacities along a unilinear sequence leading to modern humans.
+
+# References
